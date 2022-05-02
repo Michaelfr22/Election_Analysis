@@ -12,9 +12,9 @@
 ### Breakdown of County Vote Distribution
 
   The 369,712 votes were distributed between the three counties as such:
-    1. Jefferson - 10.5% - 38,855 votes
-    2. Denver - 82.8% - 306,055 votes
-    3. Arapahoe - 6.7% - 24,801 votes
+   ####   1. Jefferson - 10.5% - 38,855 votes
+   ####   2. Denver - 82.8% - 306,055 votes
+   ####   3. Arapahoe - 6.7% - 24,801 votes
 
 ### Which County Had the Largest Number of Votes?
 
@@ -23,9 +23,9 @@
 ### Breakdown of Candidate Vote Distribution
 
   The 369,712 votes were distributed between the three candidates as such:
-    1. Charles Casper Stockham - 23.0% - 85,213 votes
-    2. Diana DeGette - 73.8% - 272,892 votes
-    3. Raymon Anthony Doane - 3.2% - 11,609 votes
+   ####   1. Charles Casper Stockham - 23.0% - 85,213 votes
+   ####   2. Diana DeGette - 73.8% - 272,892 votes
+   ####   3. Raymon Anthony Doane - 3.2% - 11,609 votes
 
 ### Who Won the Election?
 
@@ -34,6 +34,6 @@
 ## Election-Audit Summary
 
   In order for the script provided in the Election Analysis to be used in future elections, the guidelines below must be followed:
-    1. File to Load - Remember to update the new csv file to that election's data file to be used for analysis
-    2. Headers - Ensure that the second and third columns in the new csv file are the County and Candidate data, respectively.
-    3. Data Cleaning - The new csv file must be with acceptable County / Candidate responses AND without multiple ID's (duplicate voters)
+   #### 1. File to Load - Remember to update the new csv file to that election's data file to be used for analysis
+   #### 2. Headers - Ensure that the second and third columns in the new csv file are the County and Candidate data, respectively.
+   #### 3. Data Cleaning - The new csv file must be with acceptable County / Candidate responses AND without multiple ID's (duplicate voters)
