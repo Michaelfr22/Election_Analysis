@@ -9,25 +9,25 @@
   
   There were 369,712 votes casted in this election.
 
-### Breakdown of county vote distribution
+### Breakdown of County Vote Distribution
 
   The 369,712 votes were distributed between the three counties as such:
     1. Jefferson - 10.5% - 38,855 votes
     2. Denver - 82.8% - 306,055 votes
     3. Arapahoe - 6.7% - 24,801 votes
 
-### Which County had largest number of votes?
+### Which County Had the Largest Number of Votes?
 
   Denver County had the biggest voter turnout, representing 82.8% of the vote pool.
 
-### Breakdown of candidate vote distribution
+### Breakdown of Candidate Vote Distribution
 
   The 369,712 votes were distributed between the three candidates as such:
     1. Charles Casper Stockham - 23.0% - 85,213 votes
     2. Diana DeGette - 73.8% - 272,892 votes
     3. Raymon Anthony Doane - 3.2% - 11,609 votes
 
-### Who won the election?
+### Who Won the Election?
 
   Diana DeGette received the most votes between the three candidates to win the election by over 50% (195,000+ votes)! of second place!
 
